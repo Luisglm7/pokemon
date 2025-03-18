@@ -90,15 +90,16 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo LICENSE
 ## 📞 Contato
 Se você tiver dúvidas, sugestões ou quiser contribuir, entre em contato:
 
-- **Nome:** [Seu Nome]
-- **Email:** [seu-email@example.com]
-- **GitHub:** [seu-usuario]
+- **Nome:** [Luis Gustavo de Lima Melo]
+- **Email:** [luis.melo7.senai@gmail.com]
+- **GitHub:** [Luisglm7]
 
 O **Pokémon Finder** é uma ferramenta simples e divertida para fãs de Pokémon que desejam explorar informações sobre seus Pokémon favoritos. **Divirta-se explorando o mundo dos Pokémon!** 🚀
 
-## 📸 Capturas de Tela (Opcional)
-Caso queira adicionar capturas de tela da aplicação em funcionamento, você pode incluir imagens demonstrativas.
+## 📸 Capturas de Tela
+
 
 - **Página Inicial**
+![Tela inicial](img/tela%20inicial.png)
 - **Resultado da Busca**
-
+![Resultado](img/resultado.png)
